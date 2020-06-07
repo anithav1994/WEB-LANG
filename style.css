@@ -3,3 +3,7 @@
     width: 100px;
     height: 100px;
 }
+.demo{
+    border: 1px dotted green;
+    background-color: yellow;
+}
